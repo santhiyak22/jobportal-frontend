@@ -8,7 +8,7 @@ export default function LandingPage() {
       <section className="h-screen flex flex-col justify-center items-center text-center px-6 bg-gradient-to-r from-blue-500 to-indigo-600 text-white">
         <h1 className="text-5xl font-bold mb-4">Build Your Dream Career 🚀</h1>
         <p className="text-lg mb-6 max-w-xl">
-          Find jobs, manage applications, and grow your career with our smart
+          Find jobs, test, and grow your career with our smart
           platform.
         </p>
         <div className="flex gap-4">
